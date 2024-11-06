@@ -10,4 +10,5 @@ We aim to answer the following key questions through our analysis:
 2.	Can we accurately predict whether a customer will subscribe to a term deposit using machine learning models?
 3.	How effective are past campaign interactions (e.g., duration, number of contacts) in determining future subscriptions?
 4.	Which customer segments show the highest likelihood of subscription?
+
 The goal of this project is to develop a machine learning model that accurately predicts whether a customer will subscribe to a term deposit based on their profile and marketing campaign interactions. The insights derived from this model will help banks optimize their marketing strategies by focusing on customers with a higher probability of subscription, leading to better resource allocation and higher conversion rates.
